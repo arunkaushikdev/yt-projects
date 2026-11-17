@@ -9,7 +9,7 @@ Each folder is a complete, separate project – open the one from the video you 
 |---|---|---|---|
 | Counter App | Beginner | [react/counter-app](react/counter-app) | [Watch](https://youtu.be/xoOBQ5g7cus) |
 | Show / Hide Password | Beginner | [react/show-hide-password](react/show-hide-password) | [Watch](https://youtu.be/JRztcJIpZEU) |
-| Character Counter | Beginner | [react/character-counter](react/character-counter) | Coming 13 Dec |
+| Character Counter | Beginner | [react/character-counter](react/character-counter) | [Watch](https://youtu.be/KmOXBNZUJvQ) |
 | Weather App (Open-Meteo) | Mini project | [react/weather-app](react/weather-app) | [Watch](https://youtu.be/tGjUOwMkaxY) |
 | Todo App – Part 1: CRUD | Intermediate | [react/todo-app-part-1-crud](react/todo-app-part-1-crud) | [Watch](https://youtu.be/Z3zK94cS-fo) |
 | Todo App – Part 2: Priority, Filters, LocalStorage | Intermediate | [react/todo-app-part-2-priority-filters-localstorage](react/todo-app-part-2-priority-filters-localstorage) | [Watch](https://youtu.be/XG7bUof6yJE) |

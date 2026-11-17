@@ -2,7 +2,7 @@
 
 A text area with a live character count, a 100-character limit, a progress bar, and a colour warning (yellow near the limit, red at the limit). Emojis are counted correctly.
 
-📺 **Video:** coming Sun 13 Dec 2026 on [Happy Learning HQ](https://www.youtube.com/@happylearninghq)
+📺 **Video:** https://youtu.be/KmOXBNZUJvQ · Short: https://youtube.com/shorts/OHmJrHOMf0k
 🏠 **All projects:** [Happy Learning HQ – yt-projects](../../README.md)
 
 ## What you'll learn
