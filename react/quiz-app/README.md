@@ -2,7 +2,7 @@
 
 A 5-question quiz with a 10-second timer per question, green/red answers, a score, and a results screen with "Play again". Deployed for free on Vercel.
 
-📺 **Video:** coming Tue 1 Dec 2026 on [Happy Learning HQ](https://www.youtube.com/@happylearninghq)
+📺 **Video:** https://youtu.be/JRbIGh4BW-A · Short: https://youtube.com/shorts/K2dMHQWaDoY
 🏠 **All projects:** [Happy Learning HQ – yt-projects](../../README.md)
 
 ## What you'll learn
