@@ -2,7 +2,7 @@
 
 A login card with a password field and an eye button that shows or hides the password.
 
-📺 **Video:** coming soon
+📺 **Video:** https://youtu.be/JRztcJIpZEU · Short: https://youtube.com/shorts/CNPbCSQjQYU
 🏠 **All projects:** [Happy Learning HQ – yt-projects](../../README.md)
 
 ## What you'll learn

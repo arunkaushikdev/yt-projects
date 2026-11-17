@@ -2,7 +2,7 @@
 
 The classic first React project: a number with − / Reset / + buttons. The − button is disabled at 0, so the count never goes negative.
 
-📺 **Video:** coming soon
+📺 **Video:** https://youtu.be/xoOBQ5g7cus · Short: https://youtube.com/shorts/Df9y4cJrzug
 🏠 **All projects:** [Happy Learning HQ – yt-projects](../../README.md)
 
 ## What you'll learn
