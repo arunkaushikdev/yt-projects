@@ -1,0 +1,72 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  background: linear-gradient(160deg, #38bdf8, #6366f1);
+}
+
+.card {
+  width: 100%;
+  max-width: 360px;
+  padding: 32px 24px;
+  border-radius: 24px;
+  background: white;
+  box-shadow: 0 20px 40px rgba(30, 27, 75, 0.25);
+}
+
+h1 {
+  margin: 0 0 24px;
+  color: #1e1b4b;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  color: #334155;
+  font-weight: 600;
+}
+
+.password-field {
+  display: flex;
+  align-items: center;
+  border: 2px solid #cbd5e1;
+  border-radius: 12px;
+}
+
+.password-field:focus-within {
+  border-color: #6366f1;
+}
+
+.password-field input {
+  flex: 1;
+  min-width: 0;
+  padding: 12px 14px;
+  border: none;
+  border-radius: 12px;
+  outline: none;
+  font-size: 16px;
+}
+
+.toggle {
+  padding: 8px 12px;
+  border: none;
+  background: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.login {
+  width: 100%;
+  margin-top: 24px;
+  padding: 12px;
+  border: none;
+  border-radius: 12px;
+  background: #1e1b4b;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
