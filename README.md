@@ -13,6 +13,7 @@ Each folder is a complete, separate project – open the one from the video you 
 | Weather App (Open-Meteo) | Mini project | [react/weather-app](react/weather-app) | [Watch](https://youtu.be/tGjUOwMkaxY) |
 | Quiz App | Mini project | [react/quiz-app](react/quiz-app) | [Watch](https://youtu.be/JRbIGh4BW-A) |
 | GitHub Profile Finder (debounce, GitHub Actions) | Mini project | [react/github-profile-finder](react/github-profile-finder) | [Watch](https://youtu.be/AVmPIftD8Uk) |
+| Expense Tracker Part 1: UI & State | Minor project | [react/expense-tracker-part-1-ui-state](react/expense-tracker-part-1-ui-state) | [Watch](https://youtu.be/8abONAejIAc) |
 | Todo App – Part 1: CRUD | Intermediate | [react/todo-app-part-1-crud](react/todo-app-part-1-crud) | [Watch](https://youtu.be/Z3zK94cS-fo) |
 | Todo App – Part 2: Priority, Filters, LocalStorage | Intermediate | [react/todo-app-part-2-priority-filters-localstorage](react/todo-app-part-2-priority-filters-localstorage) | [Watch](https://youtu.be/XG7bUof6yJE) |
 | Todo App – Part 3: Deploy to GitHub Pages | Deploy | [react/todo-app-part-3-deploy-github-pages](react/todo-app-part-3-deploy-github-pages) | [Watch](https://youtu.be/84elVi2oCMI) |
