@@ -1,0 +1,135 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  background: linear-gradient(160deg, #fb7185, #f59e0b);
+}
+
+.card {
+  width: 100%;
+  max-width: 420px;
+  padding: 32px 24px;
+  border-radius: 24px;
+  background: white;
+  box-shadow: 0 20px 40px rgba(76, 29, 49, 0.25);
+}
+
+h1 {
+  margin: 0;
+  color: #4c1d31;
+  text-align: center;
+}
+
+.subtitle {
+  margin: 6px 0 22px;
+  text-align: center;
+  color: #6b7280;
+}
+
+.field {
+  display: block;
+  margin-bottom: 16px;
+  font-weight: 600;
+  color: #374151;
+}
+
+.field input {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  margin-top: 6px;
+  padding: 12px 14px;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  outline: none;
+  font: inherit;
+  font-size: 17px;
+}
+
+.field input:focus {
+  border-color: #fb7185;
+}
+
+.hint {
+  margin: 20px 0;
+  padding: 18px;
+  border-radius: 14px;
+  background: #fff1f2;
+  text-align: center;
+  color: #9f1239;
+}
+
+.result {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin: 20px 0;
+  padding: 20px 16px 24px;
+  border: 3px solid;
+  border-radius: 18px;
+}
+
+.result-label {
+  color: #6b7280;
+  font-size: 14px;
+}
+
+.result-value {
+  font-size: 56px;
+  line-height: 1;
+}
+
+.result-category {
+  padding: 5px 18px;
+  border-radius: 999px;
+  color: white;
+  font-weight: 700;
+}
+
+.gauge {
+  position: relative;
+  width: 100%;
+  margin-top: 14px;
+}
+
+.gauge-bar {
+  height: 12px;
+  border-radius: 999px;
+  background: linear-gradient(
+    90deg,
+    #0ea5e9 0 28.3%,
+    #22c55e 28.3% 50%,
+    #f59e0b 50% 66.7%,
+    #ef4444 66.7% 100%
+  );
+}
+
+.gauge-marker {
+  position: absolute;
+  top: -5px;
+  width: 6px;
+  height: 22px;
+  margin-left: -3px;
+  border-radius: 3px;
+  background: #1f2937;
+  transition: left 0.4s ease;
+}
+
+.reset-btn {
+  width: 100%;
+  padding: 13px;
+  border: 2px solid #fb7185;
+  border-radius: 12px;
+  background: white;
+  color: #e11d48;
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.reset-btn:hover {
+  background: #fff1f2;
+}
