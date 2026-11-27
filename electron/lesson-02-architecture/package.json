@@ -1,0 +1,12 @@
+{
+  "name": "electron-architecture",
+  "version": "1.0.0",
+  "description": "Electron course, Lesson 2: main, renderer and preload",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.5.0"
+  }
+}
