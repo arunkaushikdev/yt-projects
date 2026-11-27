@@ -1,7 +1,7 @@
 # Electron Lesson 2: Main, Renderer and Preload
 
 Free lesson 2 of the **Desktop Apps with Electron** course by [Happy Learning HQ](https://www.youtube.com/@happylearninghq).
-Video: https://youtu.be/C_1b8AW54oc (premieres Fri 8 Jan 2027)
+Video: https://youtu.be/C_1b8AW54oc (premieres Sat 3 Jan 2027)
 
 ## Run it
 ```bash
