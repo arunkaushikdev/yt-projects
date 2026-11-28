@@ -6,3 +6,4 @@
 | 2. Main, renderer and preload (free) | [lesson-02-architecture](lesson-02-architecture) | [Watch](https://youtu.be/C_1b8AW54oc) |
 | 3. React + Vite inside Electron (free) | [lesson-03-react-in-electron](lesson-03-react-in-electron) | [Watch](https://youtu.be/_Klt7HQGMgs) |
 | 4. Secure IPC: save data to a real file (free) | [lesson-04-secure-ipc](lesson-04-secure-ipc) | [Watch](https://youtu.be/HkQWwfTKQC0) |
+| 5. Native file dialogs: export + import CSV (free bonus) | [lesson-05-file-dialogs](lesson-05-file-dialogs) | [Watch](https://youtu.be/258NJKHehfs) |
